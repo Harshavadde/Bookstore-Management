@@ -1,0 +1,7 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary        # for PostgreSQL; swap if using mysqlclient
+drf-yasg
+django-filter
+pytest-django  # optional
